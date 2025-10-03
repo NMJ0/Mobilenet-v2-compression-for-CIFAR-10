@@ -108,7 +108,7 @@ The evaluation script provides comprehensive analysis including:
 - **Accuracy**: Test accuracy on CIFAR-10
 - **Model Size**: File size and theoretical compressed size
 - **Sparsity Analysis**: Overall parameter sparsity and weight-only sparsity
-- **Content Breakdown**: Storage distribution (weights, biases, BatchNorm, etc.)
+- **Content Breakdown**: Storage distribution (weights, biases,  etc.)
 - **Compression Ratios**: Model, weight, and activation compression ratios
 - **Inference Time**: Average inference time and throughput
 
