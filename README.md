@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ```bash
 python train_base.py
 ```
-This will train the baseline model and stores it in `base_model.pth` .
+To download the dataset and train the baseline model  `base_model.pth` .
 
 
 ### 2. Model Pruning
