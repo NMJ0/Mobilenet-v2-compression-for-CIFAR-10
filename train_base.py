@@ -393,5 +393,5 @@ def train_model(num_epochs=300, save_path='mobilenetv2_minimal.pth'):
 
 if __name__ == "__main__":
  
-    final_acc = train_model(num_epochs=300, save_path='basel_model.pth')
+    final_acc = train_model(num_epochs=300, save_path='base_model.pth')
     print(f"🎯 Final accuracy: {final_acc:.4f}")
